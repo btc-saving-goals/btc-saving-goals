@@ -32,10 +32,6 @@ Contributions and improvements are welcome! If you have suggestions for new feat
 *   Integration with external Bitcoin price data APIs for automatic updates.
 *   More detailed financial calculations and scenarios.
 
-## Disclaimer
-
-This tool is for educational and planning purposes only and does not constitute financial advice.  Bitcoin prices are highly volatile, and past performance is not indicative of future results. The Bitcoin price models used in this tool are based on various assumptions and may not accurately reflect future price movements.  Consult with a qualified financial advisor before making any investment decisions.  The price models are sourced from [https://bitcoincompounding.com/](https://bitcoincompounding.com/) and their accuracy is not guaranteed.
-
 ## License
 
 No License
